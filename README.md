@@ -1,2 +1,2 @@
-This is a basic calculator that just doesn't want to work! While you expect the result it just refuses to work and gives you a random exuse messege.
+This is a basic calculator that just doesn't want to work! It just gives you a random excuse messege.
 It uses the api: no-as-a-service by hotheadhacker (https://github.com/hotheadhacker/no-as-a-service)
