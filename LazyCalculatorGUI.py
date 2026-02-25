@@ -1,3 +1,5 @@
+
+
 import requests
 import socket
 import tkinter as tk
@@ -10,6 +12,7 @@ try:
 except: #No internet access
     print("ERROR: ")
     print("Without internet i can't get the joke from the internet so please get an internet connection and restart the program, thanks")
+    messagebox.showerror("Error","An internet connection is needed to run the program")
     exit()
 #internet check passed
 
