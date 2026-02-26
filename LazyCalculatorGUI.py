@@ -1,5 +1,3 @@
-
-
 import requests
 import socket
 import tkinter as tk
